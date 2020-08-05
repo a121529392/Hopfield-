@@ -1,6 +1,6 @@
 # Hopfield-
 
-read demo file  
+run demo file  
 
 GUI:  
 	read_sample : 讀取train data 或 test data  
